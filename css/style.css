@@ -1,7 +1,48 @@
+body{
+    font-family: 'Gulzar', serif;
+margin: 0;
+}
+
+h1{
+    font-size: 50px;
+}
 
 
+.Orange_color{
+color: orange;
 
+}
+.heder_font-1{
+    padding-left: 5px;
+}
+.heder_font_2{
+    padding-left: 25%;
+}
+section{
+    display: flex;
 
-.1st-box-shadow{
-    sh
+}
+.half-width{
+    width: 50%;
+    padding-left: 10px;
+}
+.half-width img{
+width: 80%;
+padding-top: 6%;
+}
+
+.link-button{
+    text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px; 
+    color: wheat;
+    font-weight: 700px;
+    border: 0px;
+    border-radius: 5px;    
+
+}
+
+.top-banar{
+    background-image: url(/images/top-banner.png);
+    background-repeat: no-repeat;
 }
